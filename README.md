@@ -10,7 +10,7 @@ I learned how to:
 * User location authorization
 * Annotations (pins)
 
-Multiples (Simple Adding Calculator)
+## Project 01 - Multiples (Simple Adding Calculator)
 
 ![](https://github.com/victorchu8/SwiftProjects/blob/master/Project%2003%20-%20Mulitples/giphy.gif)
 
@@ -18,4 +18,7 @@ I learned how to:
 
 * Hide UI components (isHidden)
 * Use middle alignment in context with another UI component
+
+## Project 02 - Retro Calculator
+
 
