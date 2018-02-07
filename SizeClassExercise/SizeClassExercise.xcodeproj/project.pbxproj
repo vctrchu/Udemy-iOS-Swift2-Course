@@ -7,29 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FBC6FB7020250B29007A0657 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC6FB6F20250B29007A0657 /* AppDelegate.swift */; };
-		FBC6FB7220250B29007A0657 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC6FB7120250B29007A0657 /* ViewController.swift */; };
-		FBC6FB7520250B29007A0657 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBC6FB7320250B29007A0657 /* Main.storyboard */; };
-		FBC6FB7720250B29007A0657 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBC6FB7620250B29007A0657 /* Assets.xcassets */; };
-		FBC6FB7A20250B29007A0657 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBC6FB7820250B29007A0657 /* LaunchScreen.storyboard */; };
-		FBC6FB8220252607007A0657 /* DragImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC6FB8120252607007A0657 /* DragImg.swift */; };
-		FBC6FB842025656E007A0657 /* MonsterImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC6FB832025656E007A0657 /* MonsterImg.swift */; };
+		FBA2F8AE2026AFD4007388E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA2F8AD2026AFD4007388E9 /* AppDelegate.swift */; };
+		FBA2F8B02026AFD4007388E9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA2F8AF2026AFD4007388E9 /* ViewController.swift */; };
+		FBA2F8B32026AFD4007388E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBA2F8B12026AFD4007388E9 /* Main.storyboard */; };
+		FBA2F8B52026AFD4007388E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBA2F8B42026AFD4007388E9 /* Assets.xcassets */; };
+		FBA2F8B82026AFD4007388E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBA2F8B62026AFD4007388E9 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FBC6FB6C20250B29007A0657 /* mylittlemonster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mylittlemonster.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FBC6FB6F20250B29007A0657 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FBC6FB7120250B29007A0657 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FBC6FB7420250B29007A0657 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FBC6FB7620250B29007A0657 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FBC6FB7920250B29007A0657 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FBC6FB7B20250B29007A0657 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FBC6FB8120252607007A0657 /* DragImg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragImg.swift; sourceTree = "<group>"; };
-		FBC6FB832025656E007A0657 /* MonsterImg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterImg.swift; sourceTree = "<group>"; };
+		FBA2F8AA2026AFD4007388E9 /* SizeClassExercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SizeClassExercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FBA2F8AD2026AFD4007388E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FBA2F8AF2026AFD4007388E9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FBA2F8B22026AFD4007388E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FBA2F8B42026AFD4007388E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FBA2F8B72026AFD4007388E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FBA2F8B92026AFD4007388E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FBC6FB6920250B29007A0657 /* Frameworks */ = {
+		FBA2F8A72026AFD4007388E9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,74 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FBC6FB6320250B29007A0657 = {
+		FBA2F8A12026AFD4007388E9 = {
 			isa = PBXGroup;
 			children = (
-				FBC6FB6E20250B29007A0657 /* mylittlemonster */,
-				FBC6FB6D20250B29007A0657 /* Products */,
+				FBA2F8AC2026AFD4007388E9 /* SizeClassExercise */,
+				FBA2F8AB2026AFD4007388E9 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FBC6FB6D20250B29007A0657 /* Products */ = {
+		FBA2F8AB2026AFD4007388E9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FBC6FB6C20250B29007A0657 /* mylittlemonster.app */,
+				FBA2F8AA2026AFD4007388E9 /* SizeClassExercise.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FBC6FB6E20250B29007A0657 /* mylittlemonster */ = {
+		FBA2F8AC2026AFD4007388E9 /* SizeClassExercise */ = {
 			isa = PBXGroup;
 			children = (
-				FBC6FB6F20250B29007A0657 /* AppDelegate.swift */,
-				FBC6FB7120250B29007A0657 /* ViewController.swift */,
-				FBC6FB7320250B29007A0657 /* Main.storyboard */,
-				FBC6FB7620250B29007A0657 /* Assets.xcassets */,
-				FBC6FB7820250B29007A0657 /* LaunchScreen.storyboard */,
-				FBC6FB7B20250B29007A0657 /* Info.plist */,
-				FBC6FB8120252607007A0657 /* DragImg.swift */,
-				FBC6FB832025656E007A0657 /* MonsterImg.swift */,
+				FBA2F8AD2026AFD4007388E9 /* AppDelegate.swift */,
+				FBA2F8AF2026AFD4007388E9 /* ViewController.swift */,
+				FBA2F8B12026AFD4007388E9 /* Main.storyboard */,
+				FBA2F8B42026AFD4007388E9 /* Assets.xcassets */,
+				FBA2F8B62026AFD4007388E9 /* LaunchScreen.storyboard */,
+				FBA2F8B92026AFD4007388E9 /* Info.plist */,
 			);
-			path = mylittlemonster;
+			path = SizeClassExercise;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FBC6FB6B20250B29007A0657 /* mylittlemonster */ = {
+		FBA2F8A92026AFD4007388E9 /* SizeClassExercise */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FBC6FB7E20250B29007A0657 /* Build configuration list for PBXNativeTarget "mylittlemonster" */;
+			buildConfigurationList = FBA2F8BC2026AFD4007388E9 /* Build configuration list for PBXNativeTarget "SizeClassExercise" */;
 			buildPhases = (
-				FBC6FB6820250B29007A0657 /* Sources */,
-				FBC6FB6920250B29007A0657 /* Frameworks */,
-				FBC6FB6A20250B29007A0657 /* Resources */,
+				FBA2F8A62026AFD4007388E9 /* Sources */,
+				FBA2F8A72026AFD4007388E9 /* Frameworks */,
+				FBA2F8A82026AFD4007388E9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = mylittlemonster;
-			productName = mylittlemonster;
-			productReference = FBC6FB6C20250B29007A0657 /* mylittlemonster.app */;
+			name = SizeClassExercise;
+			productName = SizeClassExercise;
+			productReference = FBA2F8AA2026AFD4007388E9 /* SizeClassExercise.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FBC6FB6420250B29007A0657 /* Project object */ = {
+		FBA2F8A22026AFD4007388E9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Victor Chu";
 				TargetAttributes = {
-					FBC6FB6B20250B29007A0657 = {
+					FBA2F8A92026AFD4007388E9 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = FBC6FB6720250B29007A0657 /* Build configuration list for PBXProject "mylittlemonster" */;
+			buildConfigurationList = FBA2F8A52026AFD4007388E9 /* Build configuration list for PBXProject "SizeClassExercise" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,56 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = FBC6FB6320250B29007A0657;
-			productRefGroup = FBC6FB6D20250B29007A0657 /* Products */;
+			mainGroup = FBA2F8A12026AFD4007388E9;
+			productRefGroup = FBA2F8AB2026AFD4007388E9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FBC6FB6B20250B29007A0657 /* mylittlemonster */,
+				FBA2F8A92026AFD4007388E9 /* SizeClassExercise */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FBC6FB6A20250B29007A0657 /* Resources */ = {
+		FBA2F8A82026AFD4007388E9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FBC6FB7A20250B29007A0657 /* LaunchScreen.storyboard in Resources */,
-				FBC6FB7720250B29007A0657 /* Assets.xcassets in Resources */,
-				FBC6FB7520250B29007A0657 /* Main.storyboard in Resources */,
+				FBA2F8B82026AFD4007388E9 /* LaunchScreen.storyboard in Resources */,
+				FBA2F8B52026AFD4007388E9 /* Assets.xcassets in Resources */,
+				FBA2F8B32026AFD4007388E9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FBC6FB6820250B29007A0657 /* Sources */ = {
+		FBA2F8A62026AFD4007388E9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FBC6FB842025656E007A0657 /* MonsterImg.swift in Sources */,
-				FBC6FB8220252607007A0657 /* DragImg.swift in Sources */,
-				FBC6FB7220250B29007A0657 /* ViewController.swift in Sources */,
-				FBC6FB7020250B29007A0657 /* AppDelegate.swift in Sources */,
+				FBA2F8B02026AFD4007388E9 /* ViewController.swift in Sources */,
+				FBA2F8AE2026AFD4007388E9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FBC6FB7320250B29007A0657 /* Main.storyboard */ = {
+		FBA2F8B12026AFD4007388E9 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FBC6FB7420250B29007A0657 /* Base */,
+				FBA2F8B22026AFD4007388E9 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FBC6FB7820250B29007A0657 /* LaunchScreen.storyboard */ = {
+		FBA2F8B62026AFD4007388E9 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FBC6FB7920250B29007A0657 /* Base */,
+				FBA2F8B72026AFD4007388E9 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -171,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FBC6FB7C20250B29007A0657 /* Debug */ = {
+		FBA2F8BA2026AFD4007388E9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -228,7 +220,7 @@
 			};
 			name = Debug;
 		};
-		FBC6FB7D20250B29007A0657 /* Release */ = {
+		FBA2F8BB2026AFD4007388E9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,30 +270,30 @@
 			};
 			name = Release;
 		};
-		FBC6FB7F20250B29007A0657 /* Debug */ = {
+		FBA2F8BD2026AFD4007388E9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BZ967DRVJD;
-				INFOPLIST_FILE = mylittlemonster/Info.plist;
+				INFOPLIST_FILE = SizeClassExercise/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.victorchu.mylittlemonster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.victorchu.SizeClassExercise;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		FBC6FB8020250B29007A0657 /* Release */ = {
+		FBA2F8BE2026AFD4007388E9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BZ967DRVJD;
-				INFOPLIST_FILE = mylittlemonster/Info.plist;
+				INFOPLIST_FILE = SizeClassExercise/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.victorchu.mylittlemonster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.victorchu.SizeClassExercise;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -311,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FBC6FB6720250B29007A0657 /* Build configuration list for PBXProject "mylittlemonster" */ = {
+		FBA2F8A52026AFD4007388E9 /* Build configuration list for PBXProject "SizeClassExercise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FBC6FB7C20250B29007A0657 /* Debug */,
-				FBC6FB7D20250B29007A0657 /* Release */,
+				FBA2F8BA2026AFD4007388E9 /* Debug */,
+				FBA2F8BB2026AFD4007388E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FBC6FB7E20250B29007A0657 /* Build configuration list for PBXNativeTarget "mylittlemonster" */ = {
+		FBA2F8BC2026AFD4007388E9 /* Build configuration list for PBXNativeTarget "SizeClassExercise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FBC6FB7F20250B29007A0657 /* Debug */,
-				FBC6FB8020250B29007A0657 /* Release */,
+				FBA2F8BD2026AFD4007388E9 /* Debug */,
+				FBA2F8BE2026AFD4007388E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FBC6FB6420250B29007A0657 /* Project object */;
+	rootObject = FBA2F8A22026AFD4007388E9 /* Project object */;
 }
